@@ -1,0 +1,2 @@
+ContactID,CompanyID,Firstname,Lastname,Street,City,State,Zip,Ismain,Email,Phone
+1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
